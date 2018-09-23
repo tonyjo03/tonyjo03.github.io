@@ -1,0 +1,25 @@
+p{
+    color: blue;
+    font-size: 40px
+}
+
+h1{
+    color: black;
+}
+
+body{
+    background-color: yellow;
+}
+
+.differentText{
+    color:black;
+    font-size: 100px;
+}
+
+#yard{
+    width: 600px;
+    height: 410px;
+}
+img{
+    margin:20px;
+}
